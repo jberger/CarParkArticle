@@ -1,14 +1,4 @@
-
-  {
-    "title"  : "Build your own remote garage door service",
-    "authors": ["Joel Berger"],
-    "date"   : "2017-01-28T09:34:49",
-    "tags"   : [],
-    "draft"  : true,
-    "image"  : "",
-    "description" : "Use Perl, a Raspberry Pi, and some components to monitor and control your garage door wherever you are",
-    "categories": "hardware"
-  }
+# Build your own remote garage door service
 
 Nearly every time I drive away from my house I wonder if I closed my garage door.
 I'm not sure why, but I do.
